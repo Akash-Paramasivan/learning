@@ -1,0 +1,15 @@
+React vite and tailwind installation
+
+npm create vite@latest my-app --template react
+cd my-app
+npm install
+
+
+https://tailwindcss.com/docs/installation/using-vite
+
+
+CSS flex and grid tutorial
+
+flex : https://www.youtube.com/watch?v=phWxA89Dy94
+
+
